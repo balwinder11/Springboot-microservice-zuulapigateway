@@ -1,0 +1,5 @@
+package com.microservice.apigateway.app.controller;
+
+public class BaseController {
+
+}

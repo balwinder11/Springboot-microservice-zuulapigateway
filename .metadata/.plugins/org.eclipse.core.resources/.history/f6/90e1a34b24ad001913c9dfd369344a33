@@ -1,0 +1,6 @@
+package com.microservice.apigateway.photoapp.photoapiapplicayion.controller;
+
+@RestController
+public class BaseController {
+
+}

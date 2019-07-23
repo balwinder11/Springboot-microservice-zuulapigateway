@@ -1,0 +1,4 @@
+
+dockerspring.data.mongodb.uri= mongodb://mongo:27000/test
+spring.data.mongodb.host=localhost
+spring.data.mongodb.port=27017

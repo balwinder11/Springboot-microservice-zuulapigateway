@@ -1,0 +1,13 @@
+package com.microservice.apigateway.photodiscoveryservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PhotodiscoveryserviceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PhotodiscoveryserviceApplication.class, args);
+	}
+
+}

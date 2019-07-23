@@ -1,0 +1,13 @@
+schema{
+query: Query
+}
+
+type Query{
+getAllLocation : (PolyLocation)  : PolyLocation
+findByLatLong(location: GeoJson) : PolyLocation
+}
+type PolyLocation{
+id: String
+name: String
+location: GeoJson
+}
