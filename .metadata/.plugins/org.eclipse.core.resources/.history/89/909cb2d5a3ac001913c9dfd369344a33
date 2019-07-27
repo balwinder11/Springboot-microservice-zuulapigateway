@@ -1,7 +1,0 @@
-package com.microservice.apigateway.app.controller;
-
-
-@RestController
-public class UserController {
-
-}
