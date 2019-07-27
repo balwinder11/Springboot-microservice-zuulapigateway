@@ -1,3 +1,0 @@
-
-dockerspring.data.mongodb.uri=mongodb+srv://admin:<password>@cluster1-1r3s0.mongodb.net/test?retryWrites=true&w=majority
-spring.data.mongodb.host=test
